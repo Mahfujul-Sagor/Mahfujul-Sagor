@@ -4,7 +4,7 @@
 <br />
 -From Bangladesh
 <br />
--Committed To Cultivating Creative Solutions
+
 <br />
 
 ### linkedin:
