@@ -42,4 +42,4 @@
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  -->
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfujul-sagor&show_icons=true&locale=en" alt="mahfujul-sagor" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahfujul-sagor&show_icons=true&locale=en" alt="mahfujul-sagor" /></p> -->
