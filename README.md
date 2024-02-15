@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahfujul-Sagor</h1>
 <h2 align="center">I'm a Web Developer based in Bangladesh</h2>
-<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif">
 <!-- - 👨‍💻 I’m From **Bangladesh** -->
 
 <!-- - ⚡ Fun fact ** ** -->
