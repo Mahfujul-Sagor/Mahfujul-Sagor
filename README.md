@@ -7,7 +7,7 @@
 
 <!-- - 🌱 I’m currently learning ** ** -->
 
-- 🔭 I’m currently working on **my personal projects based on JavaScript**
+- 🔭 I’m currently working on **my personal projects based on React**
 
 - 👯 I’m looking to collaborate on **Frontend development based projects.**
 
