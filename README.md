@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfujul-Sagor</h1>
-<h2 align="center">I'm a Web Developer based in Bangladesh</h2>
+<h2 align="center">I'm a Full Stack Web Developer based in Bangladesh</h2>
 <a href="#"><img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"></a>
 <!-- - 👨‍💻 I’m From **Bangladesh** -->
 
@@ -7,9 +7,9 @@
 
 <!-- - 🌱 I’m currently learning ** ** -->
 
-- 🔭 I’m currently working on **my personal projects based on React**
+- 🔭 I’m currently working on **my personal projects based on NextJs**
 
-- 👯 I’m looking to collaborate on **Frontend development based projects.**
+- 👯 I’m looking to collaborate on **Full Stack projects.**
 
 - 📫 How to reach me **mahfujulsagor@gmail.com**
 <h3 align="left">Connect with me:</h3>
