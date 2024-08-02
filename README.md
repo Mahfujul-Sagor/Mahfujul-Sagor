@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahfujul-Sagor</h1>
-<h2 align="center">I'm a Full Stack Web Developer based in Bangladesh</h2>
+<h2 align="center">I'm a Software Developer based in Bangladesh</h2>
 <a href="#"><img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"></a>
 <!-- - 👨‍💻 I’m From **Bangladesh** -->
 
@@ -36,6 +36,7 @@
 <a href="#" target="_blank" rel="noreferrer" title="mongodb"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer" title="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/> </a>
 <a href="#" target="_blank" rel="noreferrer" title="linux"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> </a>
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-plain-wordmark.svg" alt="prisma" width="40" height="40"/> </a>
 <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> -->
 <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  -->  
 <!-- <a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
