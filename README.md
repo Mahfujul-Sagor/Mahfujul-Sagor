@@ -7,7 +7,7 @@
 
 <!-- - 🌱 I’m currently learning ** ** -->
 
-- 🔭 I’m currently working on **my personal projects based on NextJs**
+- 🔭 I’m currently working on **my personal projects based on MERN stack alongside NextJs**
 
 - 👯 I’m looking to collaborate on **Full Stack projects.**
 
